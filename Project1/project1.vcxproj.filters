@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Nivel1">
+      <UniqueIdentifier>{e17f30f0-9c28-4cf1-9fcf-30225ce81cbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases">
+      <UniqueIdentifier>{fdcf1adc-5054-44df-a61b-6588375d7b8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Entidad">
+      <UniqueIdentifier>{70e43ead-bbb5-4917-8c5b-d768f646d932}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Entidad\Bala">
+      <UniqueIdentifier>{331b43dd-52b6-410a-a2eb-2e338b06e3fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Entidad\Jugador">
+      <UniqueIdentifier>{cd4b9394-4b92-4ac8-95fc-7eeb1ec100bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Entidad\Enemigos_Alfa">
+      <UniqueIdentifier>{cda33180-a883-4b68-a081-8ee46c53154c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Entidad\Enemigos_Beta">
+      <UniqueIdentifier>{3488304e-ad12-49b9-a7d5-7979ca2fb0e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Escenario">
+      <UniqueIdentifier>{1c0745d4-c90e-43bb-81d2-d480e4fd6f8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Juego">
+      <UniqueIdentifier>{08c11f1f-0d06-4f50-ab80-96d8e6dd1c06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Escenario2">
+      <UniqueIdentifier>{39df8d31-d81a-48af-9e77-7d00ecb92b21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Nivel1\Clases\Entidad\Bonus">
+      <UniqueIdentifier>{6789a205-3802-4a62-8346-acf7633fec40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Myform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entidad.h">
+      <Filter>Header Files\Nivel1\Clases\Entidad</Filter>
+    </ClInclude>
+    <ClInclude Include="Bala.h">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Bala</Filter>
+    </ClInclude>
+    <ClInclude Include="Jugador.h">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Jugador</Filter>
+    </ClInclude>
+    <ClInclude Include="Juego.h">
+      <Filter>Header Files\Nivel1\Clases\Juego</Filter>
+    </ClInclude>
+    <ClInclude Include="Alfa.h">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Enemigos_Alfa</Filter>
+    </ClInclude>
+    <ClInclude Include="Beta.h">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Enemigos_Beta</Filter>
+    </ClInclude>
+    <ClInclude Include="Escenario.h">
+      <Filter>Header Files\Nivel1\Clases\Escenario</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuPrincipal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Nivel2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Escenario2.h">
+      <Filter>Header Files\Nivel1\Clases\Escenario2</Filter>
+    </ClInclude>
+    <ClInclude Include="Bonus.h">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Bonus</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Myform.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entidad.cpp">
+      <Filter>Header Files\Nivel1\Clases\Entidad</Filter>
+    </ClCompile>
+    <ClCompile Include="Bala.cpp">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Bala</Filter>
+    </ClCompile>
+    <ClCompile Include="Jugador.cpp">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Jugador</Filter>
+    </ClCompile>
+    <ClCompile Include="Juego.cpp">
+      <Filter>Header Files\Nivel1\Clases\Juego</Filter>
+    </ClCompile>
+    <ClCompile Include="Alfa.cpp">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Enemigos_Alfa</Filter>
+    </ClCompile>
+    <ClCompile Include="Beta.cpp">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Enemigos_Beta</Filter>
+    </ClCompile>
+    <ClCompile Include="Escenario.cpp">
+      <Filter>Header Files\Nivel1\Clases\Escenario</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuPrincipal.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nivel2.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Escenario2.cpp">
+      <Filter>Header Files\Nivel1\Clases\Escenario2</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus.cpp">
+      <Filter>Header Files\Nivel1\Clases\Entidad\Bonus</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Myform.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivel2.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
